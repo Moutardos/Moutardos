@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moutardos !
 - 👀 I’m interested in travelling, board games
 - 🎓 Bachelor's degree in Computer Science - Gustave Eiffel University
-- 🌱 Student at 42Paris
+- 🌱 Student at 42Paris, lcozdenm
 - 💞️ I’m looking to collaborate on anything, really !
